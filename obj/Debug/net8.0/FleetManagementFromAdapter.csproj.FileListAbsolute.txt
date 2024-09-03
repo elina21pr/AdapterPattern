@@ -1,0 +1,14 @@
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\bin\Debug\net8.0\FleetManagementFromAdapter.exe
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\bin\Debug\net8.0\FleetManagementFromAdapter.deps.json
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\bin\Debug\net8.0\FleetManagementFromAdapter.runtimeconfig.json
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\bin\Debug\net8.0\FleetManagementFromAdapter.dll
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\bin\Debug\net8.0\FleetManagementFromAdapter.pdb
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.AssemblyInfoInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.AssemblyInfo.cs
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.csproj.CoreCompileInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.dll
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\refint\FleetManagementFromAdapter.dll
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.pdb
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.genruntimeconfig.cache
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\ref\FleetManagementFromAdapter.dll
