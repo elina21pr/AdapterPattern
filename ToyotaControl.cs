@@ -8,11 +8,11 @@ namespace FleetManagementFromAdapter
 {
     public class ToyotaControl
     {
-        public void StartEngine() { }
-        public void EndOfEngineOperation() { }
-        public void SpeedUp() { }
-        public void SlowDown() { }
+        public void StartEngine() => Console.WriteLine("Engine started");
+        public void EndOfEngineOperation() => Console.WriteLine("Engine stopped");
+        public void SpeedUp() => Console.WriteLine("Speeding up");
+        public void SlowDown() => Console.WriteLine("Slowing down");
 
-        string GetToyotaStatus => "Toyota Status ...";
+        public string GetToyotaStatus() => "Toyota is running smoothly";
     }
 }

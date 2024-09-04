@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FleetManagementFromAdapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6258e1d7eeb5ceff5efd6de9ebbad1c5e6c92c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FleetManagementFromAdapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FleetManagementFromAdapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,7 +17,7 @@ namespace FleetManagementFromAdapter
         public void Stop() => _toyota.EndOfEngineOperation();
         public void Accelate(int speed) => _toyota.SpeedUp();
         public void Brake() => _toyota.SlowDown();
-        public string GetStatus() => "Tesla Status ...";
+        public string GetStatus() => _toyota.GetToyotaStatus();
 
     }
 }

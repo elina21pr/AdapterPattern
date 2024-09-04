@@ -20,7 +20,7 @@ namespace FleetManagementFromAdapter
         public void Stop() => _tesla.PowerOn();
         public void Accelate(int speed) => _tesla.IncreaseSpeed(speed);
         public void Brake() => _tesla.UseBrake();
-        public string GetStatus() => "Tesla Status ...";
+        public string GetStatus() => _tesla.GetTeslaStatus();
 
     }
 

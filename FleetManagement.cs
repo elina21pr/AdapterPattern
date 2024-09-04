@@ -27,6 +27,7 @@ namespace FleetManagementFromAdapter
                 car.Stop();
                 car.Accelate(60);
                 car.Brake();
+                Console.WriteLine(car.GetStatus());
             }
         }
     }

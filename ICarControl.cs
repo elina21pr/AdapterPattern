@@ -12,7 +12,7 @@ namespace FleetManagementFromAdapter
         public void Stop();
         public void Accelate(int speed);
         public void Brake();
-        string GetStatus();
+        public string GetStatus();
     }
 
     

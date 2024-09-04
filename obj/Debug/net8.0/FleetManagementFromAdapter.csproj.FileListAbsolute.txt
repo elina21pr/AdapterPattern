@@ -12,3 +12,4 @@ C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagem
 C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.pdb
 C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.genruntimeconfig.cache
 C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\ref\FleetManagementFromAdapter.dll
+C:\Users\ElinaPrykhodko\source\repos\FleetManagementUsingTheAdapter\FleetManagementUsingTheAdapter\obj\Debug\net8.0\FleetManagementFromAdapter.sourcelink.json
